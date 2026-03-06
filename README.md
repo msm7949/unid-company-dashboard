@@ -13,7 +13,7 @@
 
 우니드 컴퍼니의 6개 전문 팀이 한국 증권 프로젝트를 중심으로 병렬 협업하는 현황을 실시간으로 모니터링하는 대시보드 웹 애플리케이션입니다.
 
-**배포 URL:** https://unid-dash-lteck75l.manus.space
+**배포 URL:** https://stockagabangsup.baby
 
 ---
 
