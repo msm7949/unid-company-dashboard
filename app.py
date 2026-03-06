@@ -73,3 +73,5 @@ AI
 """)
 
     st.markdown("---")
+
+render_market_signal()
